@@ -25,13 +25,13 @@ I'm a Jr DevOps Engineer currently intern with <a href="https://github.com/Byte-
 
 <div align="center">
   
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-NeoVIM-informational?style=flat&logo=NeoVIM&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=Docker&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-Ansible-informational?style=flat&logo=Ansible&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Editor-NeoVIM-informational?style=flat&logo=NeoVIM&logoColor=white&color=blueviolet)
   
   
 </div>  
