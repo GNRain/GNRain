@@ -3,8 +3,6 @@
 </p>
 
 <h3 align="center">
-Damn, that zaza do be hittin 🍃
-<br>
 Wagwan, I'm <a href="http://rain.codes/" target="_blank" rel="noreferrer">Rain</a> 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
