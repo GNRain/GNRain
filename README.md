@@ -6,7 +6,9 @@
 Wagwan, I'm <a href="http://rain.codes/" target="_blank" rel="noreferrer">Rain</a> 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
-I'm a Jr DevOps Engineer currently intern with <a href="https://github.com/Byte-Cats"> ByteCats🐈
+I'm a Jr DevOps Engineer currently intern with <a href="https://github.com/Byte-Cats"> ByteCats🐈 </a>
+<br>
+You can find my <a href="https://github.com/GNRain/GNRain/blob/main/Ghaith%20-%20CV.pdf"> CV resume </a> here :page_with_curl:
 </h3>
 
 <div align="center">
