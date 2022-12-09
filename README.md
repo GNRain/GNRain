@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Wagwan, I'm <a href="http://rain.codes/" target="_blank" rel="noreferrer">Rain</a> 
+Hello, I'm <a href="http://rain.codes/" target="_blank" rel="noreferrer">Rain</a> !
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br>
 I'm a Jr DevOps Engineer currently intern with <a href="https://github.com/Byte-Cats"> ByteCats🐈 </a>
