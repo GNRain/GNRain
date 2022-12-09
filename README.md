@@ -16,7 +16,6 @@ You can find my <a href="https://github.com/GNRain/GNRain/blob/main/Ghaith%20-%2
 #### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/ghaith-naouali-05bb1b194/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rain | LinkedIn" width="21px"/></a>
-ㅤ<a href="https://instagram.com/itsyaboighaith"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rain | Instagram" width="21px"/></a>
 
 </div>
 
